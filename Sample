@@ -1,0 +1,3 @@
+public static void main (Args ...) {
+  System.print.out("TEST");
+  }
